@@ -135,8 +135,7 @@ Network Adapter: Adapter 1
 Network Type: NAT Network
 Network Name: NatNetwork
 ```
-<img src="IP Address.png" alt="IP Address" >
-
+<img src="Kali Linux Desktop.png" alt="Kali Linux Desktop">
 
 ## 5. Configure Kali Linux Networking
 
@@ -149,8 +148,7 @@ Gateway: 10.0.0.1
 DNS: 10.0.0.1
 Secondary DNS: 8.8.8.8
 `
-<img src="Kali Linux Desktop.png" alt="Kali Linux Desktop">
-
+<img src="IP Address.png" alt="IP Address" >
 
 # 🌐 DNS Troubleshooting
 
