@@ -5,7 +5,7 @@ A setup of cybersecurity testing lab using host Visual Box to set up Kali Linux
 
 This project documents how I created a small virtual environment where I can safely learn networking, reconnaissance, vulnerability assessment, and penetration-testing concepts.
 
- #Project Overview
+ ## Project Overview
 
 The goal of this project is to build a simple cybersecurity lab on a Windows computer.
 
